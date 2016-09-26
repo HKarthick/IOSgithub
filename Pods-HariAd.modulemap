@@ -1,0 +1,6 @@
+framework module Pods_HariAd {
+  umbrella header "Pods-HariAd-umbrella.h"
+
+  export *
+  module * { export * }
+}
